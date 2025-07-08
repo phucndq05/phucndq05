@@ -2,6 +2,7 @@
 
 Hi there! I'm **Nguyen Dang Quang Phuc** - an Information Technology student who is passionate about learning and exploring new technologies.
 I enjoy software development, UI/UX design, and building useful applications for real-world problems.
+
 🎓 **Junior** at University of Information Technology - VNUHCM  
 💡 **Interests**: Web Applications, UI/UX Design, Data Science  
 🌱 **Currently learning**: Flask & Machine Learning models  
