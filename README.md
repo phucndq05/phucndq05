@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Phuc Nguyen 👋</h1>
+  <h1 align="center">Hi there, I'm Nguyen Dang Quang Phuc 👋</h1>
   <h3 align="center">A passionate Data Science enthusiast 🇻🇳</h3>
 </div>
 
