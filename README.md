@@ -1,5 +1,15 @@
-# 💫 About Me
+<div align="center">
+  <h1 align="center">Hi there, I'm Phuc Nguyen 👋</h1>
+  <h3 align="center">A passionate Data Science enthusiast 🇻🇳</h3>
+</div>
 
+---
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+### 💫 About Me
 Hi there! I'm **Nguyen Dang Quang Phuc** - an Information Technology student.
 I am passionate about harnessing the power of data to uncover valuable insights and build intelligent solutions for real-world problems.
 
@@ -8,51 +18,55 @@ I am passionate about harnessing the power of data to uncover valuable insights 
 🌱 **Currently learning**: Advanced Machine Learning Algorithms, Data Visualization techniques, and Model Deployment.  
 📫 **Contact**: 23521204@gm.uit.edu.vn
 
----
+### 🌐 Socials
+<a href="https://facebook.com/phucquang.3107" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://linkedin.com/in/phúc-nguyễn-đặng-quang-244752356/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-## 🌐 Socials
+</td>
+<td valign="top" width="40%">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phucquang.3107) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phúc-nguyễn-đặng-quang-244752356/)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZldG9qZzA3OXNsdGU1Z3J0bHNqOWcyb3o2OHFzMnkxeWR2ZWRpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science GIF" width="100%"/>
+</div>
 
----
-
-## 💻 Tech Stack & Tools
-
-### 🧠 Data Science & Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=flat&logo=seaborn&logoColor=white)
-
-### 🗃️ Databases
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-
-### 🚀 Programming & Model Deployment
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
-
-### 🎨 Visualization & Other Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ My Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=phucndq05&theme=city_light&hide_border=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=phucndq05&theme=city_light&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phucndq05&theme=city_light&hide_border=true&layout=compact)
+<p align="center">
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3182BD?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
+  <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=phucndq05&icon=0&color=1)](https://visitcount.itsvg.in)
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/phucndq05">
+    <img src="https://github-readme-stats.vercel.app/api?username=phucndq05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucndq05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/phucndq05">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucndq05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/phucndq05">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=phucndq05&theme=tokyonight&hide_border=true&color=87CEEB&line=87CEEB&point=FFFFFF&area=true" alt="Contribution Graph" />
+  </a>
+</p>
