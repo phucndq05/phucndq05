@@ -77,7 +77,6 @@ I’m passionate about harnessing data to uncover insights and build intelligent
 
 ### 🗄️ Databases
 <p>
-  <img alt="SQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </p>
 
