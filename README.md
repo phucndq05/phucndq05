@@ -37,10 +37,10 @@ I’m passionate about harnessing data to uncover insights and build intelligent
 
 <p align="center">
   <a href="https://github.com/phucndq05/SQL_INJECTION_DETECTOR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phucndq05&repo=SQL_INJECTION_DETECTOR&title_color=2E8B57&text_color=333333&icon_color=20B2AA&bg_color=ffffff&hide_border=true" alt="SQL Injection Detector" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phucndq05&repo=SQL_INJECTION_DETECTOR&title_color=2E8B57&text_color=333333&icon_color=20B2AA&bg_color=ffffff&hide_border=false" alt="SQL Injection Detector" />
   </a>
   <a href="https://github.com/phucndq05/Bank-Churn-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phucndq05&repo=Bank-Churn-Prediction&title_color=2E8B57&text_color=333333&icon_color=20B2AA&bg_color=ffffff&hide_border=true" alt="Bank Churn Prediction" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phucndq05&repo=Bank-Churn-Prediction&title_color=2E8B57&text_color=333333&icon_color=20B2AA&bg_color=ffffff&hide_border=false" alt="Bank Churn Prediction" />
   </a>
 </p>
 
@@ -92,10 +92,10 @@ I’m passionate about harnessing data to uncover insights and build intelligent
 <p align="center">
   <a href="https://github.com/phucndq05">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=phucndq05&show_icons=true&theme=default&title_color=2E8B57&icon_color=20B2AA&text_color=333333&bg_color=ffffff&hide_border=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=phucndq05&show_icons=true&theme=default&title_color=2E8B57&icon_color=20B2AA&text_color=333333&bg_color=ffffff&hide_border=false&count_private=true"
       alt="GitHub Stats" width="49%" />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucndq05&layout=compact&theme=default&title_color=2E8B57&text_color=333333&bg_color=ffffff&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucndq05&layout=compact&theme=default&title_color=2E8B57&text_color=333333&bg_color=ffffff&hide_border=false"
       alt="Top Languages" width="49%" />
   </a>
 </p>
@@ -104,7 +104,7 @@ I’m passionate about harnessing data to uncover insights and build intelligent
 <p align="center">
   <a href="https://github.com/phucndq05">
     <img
-      src="https://streak-stats.demolab.com?user=phucndq05&theme=default&background=ffffff&ring=2E8B57&fire=20B2AA&currStreakLabel=2E8B57&hide_border=true"
+      src="https://streak-stats.demolab.com?user=phucndq05&theme=default&background=ffffff&ring=2E8B57&fire=20B2AA&currStreakLabel=2E8B57&hide_border=false"
       alt="GitHub Streak" />
   </a>
 </p>
@@ -112,7 +112,7 @@ I’m passionate about harnessing data to uncover insights and build intelligent
 <p align="center">
   <a href="https://github.com/phucndq05">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=phucndq05&bg_color=ffffff&color=2E8B57&line=20B2AA&point=2E8B57&area=true&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=phucndq05&bg_color=ffffff&color=2E8B57&line=20B2AA&point=2E8B57&area=true&hide_border=false"
       alt="Contribution Graph" />
   </a>
 </p>
