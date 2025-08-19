@@ -20,7 +20,7 @@ I’m passionate about harnessing data to uncover insights and build intelligent
 
 ### 🌐 Socials
 <a href="https://facebook.com/phucquang.3107" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://linkedin.com/in/phúc-nguyễn-đặng-quang-244752356/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://linkedin.com/in/phucndq05/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </td>
 <td valign="middle" align="center" width="40%">
