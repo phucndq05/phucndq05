@@ -9,18 +9,41 @@
 <tr>
 <td valign="top" width="60%">
 
-### 💫 About Me
-Hi there! I'm **Nguyen Dang Quang Phuc** — an Information Technology student.  
-I’m passionate about harnessing data to uncover insights and build intelligent solutions to real-world problems.
+### 💫 About Me | 自己紹介
 
-🎓 **Junior** at University of Information Technology – VNUHCM  
-💡 **Interests**: Data Analysis, Machine Learning, Data Visualization  
-🌱 **Currently learning**: Advanced ML, Data Viz, Model Deployment  
-📫 **Contact**: 23521204@gm.uit.edu.vn
+<details open>
+  <summary><strong>:jp: 日本語 (Japanese)</strong></summary>
+  <br>
+  
+  こんにちは！私、<strong>グエン・ダン・クアン・フック</strong> と申します。ホーチミン市情報技術大学の3年生です。
+  <br>
+  実世界の問題に対し、データを活用してインサイトを導き出し、インテリジェントなソリューションを構築することに情熱を注いでいます。
+  <ul>
+    <li>🎓 <strong>大学:</strong> ホーチミン市情報技術大学 (VNU-HCM)</li>
+    <li>💡 <strong>興味分野:</strong> データ分析、機械学習、データ可視化</li>
+    <li>🌱 <strong>現在学習中:</strong> 機械学習の応用技術、モデルのデプロイ</li>
+    <li>📫 <strong>連絡先:</strong> 23521204@gm.uit.edu.vn</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><strong>:us: English</strong></summary>
+  <br>
+  
+  Hi there! I'm <strong>Nguyen Dang Quang Phuc</strong> — a junior Information Technology student at the University of Information Technology – VNUHCM.
+  <br>
+  I’m passionate about harnessing data to uncover insights and build intelligent solutions for real-world problems.
+  <ul>
+    <li>🎓 <strong>University:</strong> University of Information Technology – VNUHCM</li>
+    <li>💡 <strong>Interests:</strong> Data Analysis, Machine Learning, Data Visualization</li>
+    <li>🌱 <strong>Currently learning:</strong> Advanced ML, Model Deployment</li>
+    <li>📫 <strong>Contact:</strong> 23521204@gm.uit.edu.vn</li>
+  </ul>
+</details>
 
 ### 🌐 Socials
 <a href="https://facebook.com/phucquang.3107" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://linkedin.com/in/phucndq05/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/phucndq05/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </td>
 <td valign="middle" align="center" width="40%">
@@ -33,7 +56,7 @@ I’m passionate about harnessing data to uncover insights and build intelligent
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects | 注目のプロジェクト
 
 <p align="center">
   <a href="https://github.com/phucndq05/SQL_INJECTION_DETECTOR">
@@ -44,13 +67,18 @@ I’m passionate about harnessing data to uncover insights and build intelligent
   </a>
 </p>
 
-### 🔎 What’s inside
-- **SQL_INJECTION_DETECTOR**: ML models (Naive Bayes / Random Forest / XGBoost) for SQLi detection + Flask web demo.  
-- **Bank Churn Prediction**: E2E pipeline (EDA → preprocessing → model compare → Flask demo), optimized **Recall** for business goals.
+### 🔎 Project Details | プロジェクト概要
+- **SQL_INJECTION_DETECTOR**: 
+  - **EN**: ML models (Naive Bayes / Random Forest / XGBoost) for SQLi detection + Flask web demo.
+  - **JP**: SQLiを検知する機械学習モデル（Naive Bayes等を使用）及びFlaskによるWebデモ。
+
+- **Bank Churn Prediction**: 
+  - **EN**: E2E pipeline (EDA → preprocessing → model compare → Flask demo), optimized **Recall** for business goals.
+  - **JP**: EDAからモデル比較までの一貫したE2EパイプラインとFlaskデモ。ビジネス目標に合わせて**Recall（再現率）**を最適化。
 
 ---
 
-## 🧰 Tech Skills
+## 🧰 Tech Skills | 技術スタック
 
 ### 👨‍💻 Programming
 <p>
@@ -87,7 +115,7 @@ I’m passionate about harnessing data to uncover insights and build intelligent
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats | 私のGitHub統計
 
 <p align="center">
   <a href="https://github.com/phucndq05">
